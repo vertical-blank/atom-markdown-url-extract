@@ -1,12 +1,12 @@
 {
   "name": "markdown-url-extract",
   "main": "./lib/markdown-url-extract",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Generates markdown link syntax from selected url-string.",
   "activationCommands": {
     "atom-workspace": "markdown-url-extract:apply"
   },
-  "repository": "https://github.com/atom/markdown-url-extract",
+  "repository": "https://github.com/yohei224/atom-markdown-url-extract",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
