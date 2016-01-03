@@ -1,7 +1,7 @@
 {
   "name": "markdown-url-extract",
   "main": "./lib/markdown-url-extract",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generates markdown link syntax from selected url-string.",
   "activationCommands": {
     "atom-workspace": "markdown-url-extract:apply"
