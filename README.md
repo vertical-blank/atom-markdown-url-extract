@@ -2,4 +2,4 @@
 
 Generates markdown link syntax from selected url-string.
 
-![screenshot](atom-url-extract.gif)
+![screenshot](https://raw.githubusercontent.com/yohei224/atom-markdown-url-extract/master/atom-url-extract.gif)
