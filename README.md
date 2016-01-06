@@ -6,8 +6,8 @@ Generates markdown link syntax from selected url-string.
 
 ## example
 
-> http://www.apple.com/
-https://atom.io/
+> http://www.apple.com/  
+> https://atom.io/
 
 will be convert to 
 
